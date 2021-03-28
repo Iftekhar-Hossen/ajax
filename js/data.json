@@ -1,0 +1,27 @@
+{
+    "person": [{
+            "name": "Iftekhar Hossen",
+            "age": "16",
+            "school": "NMS",
+            "address": "Narsingdi, Dhaka, Bangladesh"
+        },
+        {
+            "name": "Ratul Saha",
+            "age": "16",
+            "school": "BKKM",
+            "address": "Narsingdi, Dhaka, Bangladesh"
+        },
+        {
+            "name": "Rohan",
+            "age": "16",
+            "school": "NMS",
+            "address": "Narsingdi, Dhaka, Bangladesh"
+        },
+        {
+            "name": "Mahi",
+            "age": "16",
+            "school": "NMS",
+            "address": "Narsingdi, Dhaka, Bangladesh"
+        }
+    ]
+}
